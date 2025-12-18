@@ -25,6 +25,3 @@ En la carpeta `/simulaciones` se pueden observar las capturas del osciloscopio, 
 1. La linealidad del VCO en el rango audible.
 2. La respuesta en frecuencia del VCF.
 3. El correcto funcionamiento del ciclo ADSR sobre el VCA.
-
-![Vista previa del esquema](./simulaciones/Fotos-Laboratorio/Controlador/W-1-2-c.png)
-*(Captura de una canción)*
